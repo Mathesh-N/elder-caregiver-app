@@ -51,15 +51,18 @@ Repository Structure:
 
 Installation:
   1.Clone the repo
+  
     git clone https://github.com/Mathesh-N/elder-caregiver-app.git
     cd elder-caregiver-app
 
   2.Install Dependecies
+  
     npm install
     pnpm install  
 
 
   For Sample demo:
+  
       https://elder-caregiver-app.vercel.app/
 
     
